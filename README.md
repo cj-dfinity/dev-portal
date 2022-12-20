@@ -20,7 +20,7 @@ Contributions from the community are appreciated, and contributions of all sizes
 
 The Developer Portal uses [Docusaurus](https://docusaurus.io/docs).
 
-### Local development
+# Local development
 
 #### Requirements
 
@@ -45,7 +45,7 @@ To preview a specific locale in the context of an internationalization contribut
 npm start -- --locale <locale>
 ```
 
-### Adding a document
+## Adding a document
 
 Docusaurus is quite easy to use and facilitates the creation of documents.
 The developer portal uses Markdown as its default format with [enhancements provided by Docusuaurus](https://docusaurus.io/docs/markdown-features).
@@ -64,7 +64,7 @@ developer-docs/
         ...
 ```
 
-### Changing the roadmap
+## Changing the roadmap
 
 The roadmap items are stored as markdown files inside the [roadmap](https://github.com/dfinity/portal/tree/master/roadmap) directory.
 
@@ -101,7 +101,7 @@ roadmap
 
 Each domain folder contains an `index.md` file which adds metadata, like a title, a description, and cover images.
 
-### Changing the How it works content
+## Changing the How it works content
 
 The how it works page cards and subpages are stored as markdown files inside the [how-it-works](https://github.com/dfinity/portal/tree/master/how-it-works) directory.
 
