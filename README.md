@@ -174,7 +174,12 @@ Here is a description of how a contribution should be made to the developer port
 3. After the Pull Request is merged into master, CI/CD will deploy the contents to the IC. The changes made will appear on the webpage under the version in the dropdown named "Current".
 4. Optional: When a repo maintainer tags a commit on master as $TAG, then CI/CD deploys the contents to the IC. The webpage will default to the new "$TAG" version, visible in the versions dropdown, and allow users to view the contents pinned at that tag.
 
-## Community-created Agents and CDKs
+
+# Community-created projects
+
+Want to share your project with the community? Follow these instructions to add them to the right pages.
+
+## Agents and CDKs
 
 The [agents](https://internetcomputer.org/docs/current/developer-docs/build/agents) and [CDKs](https://internetcomputer.org/docs/current/developer-docs/build/cdks) sections should not only contain docs for DFINITY-created agents and CDKs.
 We therefore invite other projects to:
@@ -182,13 +187,13 @@ We therefore invite other projects to:
 - link to their own agents or CDKs on the respective index pages (the files to be edited are in `docs/developer-docs/build/agents/index.md` or `docs/developer-docs/build/cdks/index.md`)
 - add their own documentation as a folder under `Agents` or `CDKs`
 
-## Community-created Developer tools
+## Developer tools
 
 We invite developers to add their IC-focused developer tools to the [Developer Tools page](https://internetcomputer.org/tooling) by appending an entry to the `communityToolingItems` array in `src/components/Common/toolingItems.ts`.
 
 Please make sure to add appropriate tags to make the tool easy to discover for other devs. Avoid introducing new tags if possible.
 
-## Community-created sample projects
+## Sample projects
 
 You can submit your sample project to be displayed on the [Samples page](https://internetcomputer.org/samples).
 
