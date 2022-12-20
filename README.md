@@ -165,7 +165,7 @@ Once the job is finished, you should see as active the "Preview Netlify" deploym
 
 Then simply press the "View deployment" button to in your fresh Netlify preview.
 
-### [Contribution workflow]
+### Contribution workflow
 
 Here is a description of how a contribution should be made to the developer portal.
 
