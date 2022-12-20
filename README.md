@@ -12,7 +12,7 @@ https://internetcomputer.org
 
 Contributions from the community are appreciated, and contributions of all sizes are encouraged. From reporting an issue to adding content through a pull request. 
 
-- [Workflow](#workflow)
+- [Contribution workflow](#contribution-workflow)
 
 
 
@@ -165,7 +165,7 @@ Once the job is finished, you should see as active the "Preview Netlify" deploym
 
 Then simply press the "View deployment" button to in your fresh Netlify preview.
 
-### Contribution workflow (#workflow)
+### [Contribution workflow]
 
 Here is a description of how a contribution should be made to the developer portal.
 
