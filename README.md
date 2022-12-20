@@ -10,7 +10,11 @@ https://internetcomputer.org
 
 ## Contributing
 
-DFINITY appreciate contributions from the community, and encourage contributions of all sizes. From reporting an issue to adding content through a pull request. 
+Contributions from the community are appreciated, and contributions of all sizes are encouraged. From reporting an issue to adding content through a pull request. 
+
+- [Workflow](#workflow)
+
+
 
 The Developer Portal uses [Docusaurus](https://docusaurus.io/docs).
 
@@ -161,7 +165,7 @@ Once the job is finished, you should see as active the "Preview Netlify" deploym
 
 Then simply press the "View deployment" button to in your fresh Netlify preview.
 
-### Contribution workflow
+### Contribution workflow (#workflow)
 
 Here is a description of how a contribution should be made to the developer portal.
 
