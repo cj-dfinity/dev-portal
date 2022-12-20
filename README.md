@@ -147,7 +147,21 @@ https://i.ytimg.com/vi/INSERT_VIDEO_ID_HERE/0.jpg
 
 If the resulting image is low quality, you can try `https://i.ytimg.com/vi/INSERT_VIDEO_ID_HERE/maxresdefault.jpg`, but it does not always exist.
 
-### ⚠️ Contributions' musts:
+# How to contribute
+
+Before creating a Pull Request, follow the workflow and directions below. 
+
+## Contribution workflow
+
+Here is a description of how a contribution should be made to the developer portal.
+
+1. The contributor creates a fork/branch where the changes are made.
+2. A Pull Request is created from this branch to `master`. the preview is generated and the reviewers can directly check the preview website.
+3. After the Pull Request is merged into master, CI/CD will deploy the contents to the IC. The changes made will appear on the webpage under the version in the dropdown named "Current".
+4. Optional: When a repo maintainer tags a commit on master as $TAG, then CI/CD deploys the contents to the IC. The webpage will default to the new "$TAG" version, visible in the versions dropdown, and allow users to view the contents pinned at that tag.
+
+
+## ⚠️ Contribution Must-Dos:
 
 - Making sure that the [`.github/CODEOWNERS`](https://github.com/dfinity/portal/blob/master/.github/CODEOWNERS) file is filled with new documents that you added. This way we can ensure that future Pull Requests are reviewed by the right people.
 - When creating a document, it must be registered in [`/sidebars.js`](https://github.com/dfinity/portal/blob/master/sidebars.js), otherwise, it will not appear in the side navigation bar.
@@ -165,14 +179,6 @@ Once the job is finished, you should see as active the "Preview Netlify" deploym
 
 Then simply press the "View deployment" button to in your fresh Netlify preview.
 
-### Contribution workflow
-
-Here is a description of how a contribution should be made to the developer portal.
-
-1. The contributor creates a fork/branch where the changes are made.
-2. a Pull Request is created from this branch to `master`. the preview is generated and the reviewers can directly check the preview website.
-3. After the Pull Request is merged into master, CI/CD will deploy the contents to the IC. The changes made will appear on the webpage under the version in the dropdown named "Current".
-4. Optional: When a repo maintainer tags a commit on master as $TAG, then CI/CD deploys the contents to the IC. The webpage will default to the new "$TAG" version, visible in the versions dropdown, and allow users to view the contents pinned at that tag.
 
 
 # Community-created projects
