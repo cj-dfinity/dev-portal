@@ -10,6 +10,8 @@ https://internetcomputer.org
 
 ## Contributing
 
+DFINITY appreciate contributions from the community, and encourage contributions of all sizes. From reporting an issue to adding content through a pull request. 
+
 The Developer Portal uses [Docusaurus](https://docusaurus.io/docs).
 
 ### Local development
