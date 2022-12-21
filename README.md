@@ -6,15 +6,13 @@
 
 The Developer Portal brings together all the resources needed for experienced as well as beginning developers on the [Internet Computer](https://internetcomputer.org).
 
-
-
-
-
-## Contributing
-
+### Contributions
 Contributions from the community are appreciated, and contributions of all sizes are encouraged. From reporting an issue to adding content through a pull request. 
 
-- [How to contribute](#how-to-contribute)
+### How to get started
+
+
+
 
 
 
