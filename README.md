@@ -14,7 +14,7 @@ The Developer Portal brings together all the resources needed for experienced as
 
 Contributions from the community are appreciated, and contributions of all sizes are encouraged. From reporting an issue to adding content through a pull request. 
 
-- [Contribution workflow](#contribution-workflow)
+- [How to contribute](#how-to-contribute)
 
 
 
