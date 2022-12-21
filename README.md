@@ -183,11 +183,11 @@ Then simply press the "View deployment" button to in your fresh Netlify preview.
 
 
 
-# Community-created projects
+## Community-created projects
 
 Want to share your project with the community? Follow these instructions to add them to the right pages.
 
-## Agents and CDKs
+### Agents and CDKs
 
 The [agents](https://internetcomputer.org/docs/current/developer-docs/build/agents) and [CDKs](https://internetcomputer.org/docs/current/developer-docs/build/cdks) sections should not only contain docs for DFINITY-created agents and CDKs.
 We therefore invite other projects to:
@@ -195,13 +195,13 @@ We therefore invite other projects to:
 - link to their own agents or CDKs on the respective index pages (the files to be edited are in `docs/developer-docs/build/agents/index.md` or `docs/developer-docs/build/cdks/index.md`)
 - add their own documentation as a folder under `Agents` or `CDKs`
 
-## Developer tools
+### Developer tools
 
 We invite developers to add their IC-focused developer tools to the [Developer Tools page](https://internetcomputer.org/tooling) by appending an entry to the `communityToolingItems` array in `src/components/Common/toolingItems.ts`.
 
 Please make sure to add appropriate tags to make the tool easy to discover for other devs. Avoid introducing new tags if possible.
 
-## Sample projects
+### Sample projects
 
 You can submit your sample project to be displayed on the [Samples page](https://internetcomputer.org/samples).
 
