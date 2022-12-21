@@ -10,13 +10,7 @@ Contributions of all sizes from the community are appreciated. From reporting an
 
 Develop and test contributions locally before creating a pull request. The workflow for making contributions is described in the [How to contribute](#how-to-contribute) section. The Developer Portal uses [Docusaurus](https://docusaurus.io/docs), and the steps to setup a local version of the documentation for development is described in the [Local development](#local-development) below. 
 
-
-
-
-
-
-
-
+Descriptions of, and links to, community-created projects can be added to documentation pages by following the directions in the [Community-created projects](#community-created-projects).
 
 # Local development
 
