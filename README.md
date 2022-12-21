@@ -8,9 +8,7 @@ The Developer Portal brings together all the resources needed for experienced as
 
 Contributions of all sizes from the community are appreciated. From reporting an issue to adding content through a pull request. 
 
-Develop and test contributions locally before creating a pull request. The workflow for making contributions is described in the [How to contribute](#how-to-contribute) section. 
-
-The Developer Portal uses [Docusaurus](https://docusaurus.io/docs), and the steps to setup a local version of the documentation for development is described in the [Local development](#local-development) below. 
+Develop and test contributions locally before creating a pull request. The workflow for making contributions is described in the [How to contribute](#how-to-contribute) section. The Developer Portal uses [Docusaurus](https://docusaurus.io/docs), and the steps to setup a local version of the documentation for development is described in the [Local development](#local-development) below. 
 
 
 
